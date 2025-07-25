@@ -1,7 +1,7 @@
 # TISC 🤖
 Progetto di Tecnologie Informatiche dei Sistemi di Controllo
 
-### Università degli Studi di Salerno (UNISA) & Innovation Engineering S.R.L.S.  
+### Università degli Studi di Salerno (UNISA)  
 **Corso di Ingegneria Informatica**  
 
 

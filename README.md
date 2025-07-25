@@ -7,7 +7,7 @@ Progetto di Tecnologie Informatiche dei Sistemi di Controllo
 
 ---
 
-## 🚀 Descrizione brreve del Progetto  
+## 🚀 Descrizione breve del Progetto  
 Automatizzazione di un sistema di smistamento di pacchi, distinguendo tra pacchi piccoli, medi e grandi direzionando ciascuno su un opportuno nastro trasportatore.
 
 Maggiori dettagli sono presenti nella cartella Doc.

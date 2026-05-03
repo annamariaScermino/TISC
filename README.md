@@ -24,9 +24,18 @@ Il progetto è stato realizzato da 2 studenti del corso di Ingegneria Informatic
 
 - **Scermino Annamaria** 
 - **Zouhri Anuar**
+  
+## Come è strutturato il sistema
 
-
-![descrizione](https://github.com/annamariaScermino/TISC/blob/main/VideoDimostrativo/ScenaFactoryIO.png)
-
+La scena vista di fronte
+![Scena del sistema](https://github.com/annamariaScermino/TISC/blob/main/VideoDimostrativo/ScenaFactoryIO.png)
+I due ascensori
+![Ascensori](https://github.com/annamariaScermino/TISC/blob/main/VideoDimostrativo/elevator.jpg)
+Il palletizer
+![Palletizer](https://github.com/annamariaScermino/TISC/blob/main/VideoDimostrativo/palletizer.jpg)
+I robot
+![Robot](https://github.com/annamariaScermino/TISC/blob/main/VideoDimostrativo/robot.jpg) 
+Il sistema visto dall'alto
+![Vista dall'alto](https://github.com/annamariaScermino/TISC/blob/main/VideoDimostrativo/top_view.jpg)\\
 
 

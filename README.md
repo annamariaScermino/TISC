@@ -26,4 +26,7 @@ Il progetto è stato realizzato da 2 studenti del corso di Ingegneria Informatic
 - **Zouhri Anuar**
 
 
+![descrizione](https://github.com/annamariaScermino/TISC/blob/main/VideoDimostrativo/ScenaFactoryIO.png)
+
+
 

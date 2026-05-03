@@ -36,6 +36,6 @@ Il palletizer
 I robot
 ![Robot](https://github.com/annamariaScermino/TISC/blob/main/VideoDimostrativo/robot.jpg) 
 Il sistema visto dall'alto
-![Vista dall'alto](https://github.com/annamariaScermino/TISC/blob/main/VideoDimostrativo/top_view.jpg)\\
+![Vista dall'alto](https://github.com/annamariaScermino/TISC/blob/main/VideoDimostrativo/top_view.jpg)
 
 
